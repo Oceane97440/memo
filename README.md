@@ -7,12 +7,16 @@ Il s'agit d'un template qui génère du code HTML avec du javascript, il permet 
 Techno:Node.js
 
 En résumer EJS c’est:</br>
+<ul>
+ <li>
 Utiliser du javascript 
 Temps de développement rapide
 Syntaxe simple
 Exécution rapide
 Débogage facile
 Développement actif
+ </li>
+</ul>
 
 Sa particularité est qu’il utilise des balises assez simple, par exemple:
 <%=  			%>
