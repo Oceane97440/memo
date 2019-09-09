@@ -29,4 +29,4 @@ Sources:
 Sources: https://github.com/ithaqua974/cp-dev-web
 
 ## Detail
-Cette fiche peut être amélioré dans le temps, un tuto est disponible sur openclassrom pour suivre etape par etape son utilisation
+Cette fiche peut être amélioré dans le temps
