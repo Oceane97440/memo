@@ -6,7 +6,7 @@ Qu'est-ce que EJS
 Il s'agit d'un template qui génère du code HTML avec du javascript, il permet de rendre le code plus lisible avec une syntaxe simple. De plus, il permet par exemple avec un formulaire de récupérer de la data.
 Techno:Node.js
 
-En résumer EJS c’est:
+En résumer EJS c’est:</br>
 Utiliser du javascript 
 Temps de développement rapide
 Syntaxe simple
