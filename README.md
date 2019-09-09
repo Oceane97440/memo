@@ -19,7 +19,7 @@ Sa particularité est qu’il utilise des balises assez simple, par exemple:
 Chevron ouvrant		Chevron fermant
 
 Ces balises sont intégrées dans du code HTML comme ceci :
-<h1 > <% = title %> </ h1>
+<h 1 > <% = title %> </ h 1>
 
 ## Comment utiliser ?
 C'est un template qui fonctionne avec Node.js, il suffit de faire :
