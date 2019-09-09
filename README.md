@@ -8,14 +8,14 @@ Techno:Node.js
 
 En résumer EJS c’est:</br>
 <ul>
- <li>
-Utiliser du javascript 
-Temps de développement rapide
-Syntaxe simple
-Exécution rapide
-Débogage facile
-Développement actif
- </li>
+
+ <li>Utiliser du javascript </li>
+<li>Temps de développement rapide</li>
+<li>Syntaxe simple</li>
+<li>Exécution rapide</li>
+<li>Débogage facile</li>
+<li>Développement actif</li>
+ 
 </ul>
 
 Sa particularité est qu’il utilise des balises assez simple, par exemple:
