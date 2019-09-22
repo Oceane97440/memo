@@ -14,13 +14,11 @@ Sources:https://github.com/pyrce/contrat_pro/tree/master/veille
 Sources: https://github.com/Rabehoavy/veille
 
 ## MariaDB
-Sources:
+Sources: https://github.com/windtagane/veille-mariaDB
 
 
 ## NPM
-Sources:
-
-https://github.com/Guillaume97490/dev_web_simplon/blob/master/Veille/NPM/NPM.md
+Sources: https://github.com/Guillaume97490/dev_web_simplon/blob/master/Veille/NPM/NPM.md
 
 ## CLI
 Sources:
