@@ -26,5 +26,5 @@ Sources:
 ## Node js
 Sources: https://github.com/ithaqua974/cp-dev-web
 
-## Detail
-Cette fiche peut être amélioré dans le temps
+## Fiche express application generator
+Sources:https://github.com/yoann-martini/fiche-express-application-generator/blob/master/README.md
