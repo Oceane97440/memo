@@ -36,4 +36,4 @@ Sources:https://github.com/pyrce/contrat_pro/blob/master/veille/paypal/concurren
 Sources:https://github.com/Guillaume97490/dev_web_simplon/tree/master/Veille/paypal%20%26%20ecommerce
 Sources:https://github.com/yoann-martini/fiche_paiement-en-ligne
 Sources:https://github.com/ithaqua974/paypal_veille
-Souces:
+Souces: Bouton checkout de paypal https://developer.paypal.com/docs/commerce-platform/v1/checkout/
